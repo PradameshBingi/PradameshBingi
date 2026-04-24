@@ -27,3 +27,5 @@ B.Tech ECE (2027) 🎓 | VLSI Design Verification Focus ⚡<br><br>I’m buildin
 [![](https://komarev.com/ghpvc/?username=PradameshBingi&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradameshBingi&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradameshBingi)
