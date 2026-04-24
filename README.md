@@ -3,7 +3,7 @@ B.Tech ECE (2027) 🎓 | VLSI Design Verification Focus ⚡<br><br>I’m buildin
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](pradamesh-043-bingi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/pradamesh-043-bingi) 
 
 # 💻 Tech Stack:
 ![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logoColor=white)
