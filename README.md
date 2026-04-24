@@ -17,13 +17,6 @@ B.Tech ECE (2027) 🎓 | VLSI Design Verification Focus ⚡<br><br>I’m buildin
 ![](https://streak-stats.demolab.com/?user=PradameshBingi&theme=omni)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PradameshBingi&theme=omni&layout=compact)
 
- #side by side
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=PradameshBingi&theme=omni&hide_border=false&show_icons=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=PradameshBingi&theme=omni&hide_border=false" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PradameshBingi&theme=omni&hide_border=false&layout=compact" height="165"/>
 </p>
